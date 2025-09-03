@@ -40,7 +40,7 @@ Run Jupyter Notebook (if applicable)
 ``` bash
 jupyter notebook
 `````
-##📊 Visualizations
+### 📊 Visualizations
 
 Crime frequency by category
 
@@ -50,7 +50,7 @@ Yearly and monthly trend analysis
 
 Heatmaps of high-crime areas
 
-##🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Frontend: React, Vite, TailwindCSS
 
@@ -60,7 +60,7 @@ Data Analysis: Jupyter Notebook, NumPy, Pandas
 
 Version Control: Git & GitHub
 
-##🤝 Contributing
+### 🤝 Contributing
 
 Contributions are welcome!
 
@@ -72,7 +72,7 @@ Commit your changes
 
 Submit a pull request 🚀
 
-##📜 License
+### 📜 License
 This project is licensed under the MIT License – you are free to use, modify, and distribute it.
 ```yaml
 ---
@@ -85,3 +85,4 @@ This project is licensed under the MIT License – you are free to use, modify, 
 ---
 
 👉 Do you also want me to prepare the **requirements.txt file content** in the same clean format so you can add it to your repo next?
+
