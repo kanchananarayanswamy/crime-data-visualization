@@ -74,15 +74,3 @@ Submit a pull request 🚀
 
 ### 📜 License
 This project is licensed under the MIT License – you are free to use, modify, and distribute it.
-```yaml
----
-
-✅ This fixes:
-- Proper code block formatting (` ```bash ... ``` `)  
-- Clear section headings with spacing  
-- No broken markdown  
-
----
-
-👉 Do you also want me to prepare the **requirements.txt file content** in the same clean format so you can add it to your repo next?
-
